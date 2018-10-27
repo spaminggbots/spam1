@@ -6,7 +6,7 @@ console.log("Script");
 client.on("ready", () => {
 let channel =     client.channels.get("505726598213926925")
 setInterval(function() {
-channel.send(`youtube`);
+channel.send(`spam1`);
 }, 25)
 })
 
