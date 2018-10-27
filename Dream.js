@@ -4,7 +4,7 @@ console.log("Script");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("498233231922036756")
+let channel =     client.channels.get("505726598213926925")
 setInterval(function() {
 channel.send(`youtube`);
 }, 25)
